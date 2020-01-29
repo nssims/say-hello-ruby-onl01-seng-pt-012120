@@ -1,4 +1,4 @@
-def say_hello (name)
+def say_hello (name="Ruby programmer")
   puts "say_hello, # {name}!"
 
 end
